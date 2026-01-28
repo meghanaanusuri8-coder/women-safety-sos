@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+button {
+  padding: 20px 40px;
+  font-size: 20px;
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:active {
+  background: darkred;
+}
